@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Maldonado</h1>
 
-<h3 align="center">A Computer Engineer from Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="python"> </h3>
+<h3 align="center">A Computer Engineer from Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="br"> </h3>
 
 
-- 👨‍💻 All of my projects are available at **github.com/Le0Martin** <a href="https://github.com/Le0Martin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="python" width="30" height="30">
+- 👨‍💻 All of my projects are available at **github.com/Le0Martin** <a href="https://github.com/Le0Martin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="git" width="30" height="30">
 
 - 📊 I’m currently learning **Data Analysis and Data Science**
   
@@ -15,7 +15,6 @@
 <a href="https://linkedin.com/in/leonardomartindelucio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: inline_block"><br>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40">
