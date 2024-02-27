@@ -3,9 +3,11 @@
 <h3 align="center">A Computer Engineer from Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="br"> </h3>
 
 
-- 👨‍💻 All of my projects are available at **github.com/Le0Martin** <a href="https://github.com/Le0Martin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="git" width="30" height="30">
+- 👨‍💻 All of my projects are available at **github.com/Le0Martin**  <a href="https://github.com/Le0Martin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="git" width="30" height="30">
 
-- 📊 I’m currently learning **Data Analysis and Data Science**
+- 🖥️ My Portfolio is Avaiable at: ***https://www.datascienceportfol.io/LeonardoM***
+
+- 📊 I’m currently working as  **Data Scientist** at ICASA
   
 - 📫 How to reach me **leonardoL.Maldonado@outlook.com**
 
